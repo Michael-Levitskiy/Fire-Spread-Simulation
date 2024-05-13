@@ -1,4 +1,4 @@
-# Simplpe Fire Spread Simulation
+# Simple Fire Spread Simulation
 This project simulates the spread of a wildfire in a forest, using a 2D array for our fictional forest and JFrames to illustrate the spread.
 
 ## Purpose:
